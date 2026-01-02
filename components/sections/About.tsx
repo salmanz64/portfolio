@@ -10,7 +10,8 @@ import achievementsData from '@/data/achievements.json'
 import { Skill, Education, Achievement } from '@/types'
 
 // Group skills by category
-const groupedSkills = skillsData.reduce((acc, skill: Skill) => {
+const skills = skillsData as Skill[]
+const groupedSkills = skills.reduce((acc, skill) => {
   if (!acc[skill.category]) {
     acc[skill.category] = []
   }
