@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Job Nexus - A Full Stack Job Portal App",
+    "description": "A full-stack job portal built with Flutter and FastAPI, featuring secure authentication, role-based access, job posting, applications, and real-time chat powered by WebSockets.",
+    "longDescription": "A full-stack job portal platform that connects recruiters and candidates. Features include secure authentication, role-based dashboards, job posting and application workflows, real-time chat, and admin moderation tools.",
+    "techStack": ["Flutter", "FastAPI", "Python", "PostgreSQL", "WebSockets"],
+    "githubUrl": "https://github.com/yourusername/job-nexus",
+    "liveUrl": "https://job-nexus.vercel.app",
+    "screenshots": ["/assets/job_nexus_home.png"]
+  },
+  {
+    "id": "2",
+    "name": "TuneStream - A Music Streaming App",
+    "description": "A full-stack music streaming application inspired by Spotify, built with FastAPI, PostgreSQL, and Flutter.",
+    "longDescription": "A music streaming platform that allows users to browse, stream, and manage playlists. Includes user authentication, audio streaming, recommendations, and admin content management.",
+    "techStack": ["Flutter", "FastAPI", "PostgreSQL", "Redis", "Docker"],
+    "githubUrl": "https://github.com/yourusername/tunestream",
+    "liveUrl": "https://tunestream.vercel.app",
+    "screenshots": ["/screenshots/tunestream-1.jpg"]
+  },
+  {
+    "id": "3",
+    "name": "TikTok Clone",
+    "description": "A full-stack social video sharing application inspired by TikTok, built with Flutter and Firebase.",
+    "longDescription": "A mobile-first social media application for uploading, sharing, and discovering short-form videos. Includes real-time feeds, likes, comments, and push notifications.",
+    "techStack": ["Flutter", "Dart", "Firebase", "REST API"],
+    "githubUrl": "https://github.com/yourusername/tiktok-clone",
+    "liveUrl": null,
+    "screenshots": ["/screenshots/tiktok-1.jpg"]
+  },
+  {
+    "id": "4",
+    "name": "SmartCanteen - Canteen Management System",
+    "description": "A web-based canteen management system for handling orders, menus, payments, and inventory.",
+    "longDescription": "A full-stack canteen management platform designed for colleges and offices. Features include digital menus, order placement, real-time order tracking, inventory management, and admin analytics.",
+    "techStack": ["Next.js", "FastAPI", "PostgreSQL", "Stripe", "Tailwind CSS"],
+    "githubUrl": "https://github.com/yourusername/smartcanteen",
+    "liveUrl": "https://smartcanteen.vercel.app",
+    "screenshots": ["/screenshots/canteen-1.jpg"]
+  },
+  {
+    "id": "5",
+    "name": "CircleEd - Skill Swap & Learning Platform",
+    "description": "A peer-to-peer skill exchange and learning platform where users can teach and learn from each other.",
+    "longDescription": "CircleEd enables users to offer skills, request mentorship, schedule sessions, and exchange knowledge. Includes profiles, messaging, reviews, scheduling, and admin moderation.",
+    "techStack": ["Next.js", "FastAPI", "PostgreSQL", "WebSockets", "Tailwind CSS"],
+    "githubUrl": "https://github.com/yourusername/circle-ed",
+    "liveUrl": "https://circle-ed.vercel.app",
+    "screenshots": ["/screenshots/circleed-1.jpg"]
+  },
+  {
+    "id": "6",
+    "name": "LifeDrop - Blood Donation & Request Platform",
+    "description": "A platform that connects blood donors with patients and hospitals in real time.",
+    "longDescription": "A life-saving web platform that allows users to register as donors, submit blood requests, receive emergency notifications, and locate nearby donors and hospitals using geo-location.",
+    "techStack": ["Next.js", "FastAPI", "PostgreSQL", "Maps API", "Tailwind CSS"],
+    "githubUrl": "https://github.com/yourusername/lifedrop",
+    "liveUrl": "https://lifedrop.vercel.app",
+    "screenshots": ["/screenshots/lifedrop-1.jpg"]
+  }
+]

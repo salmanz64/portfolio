@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Next.js",
+    "category": "Frontend",
+    "proficiency": "Advanced"
+  },
+  {
+    "name": "React",
+    "category": "Frontend",
+    "proficiency": "Advanced"
+  },
+  {
+    "name": "TypeScript",
+    "category": "Frontend",
+    "proficiency": "Advanced"
+  },
+  {
+    "name": "Tailwind CSS",
+    "category": "Frontend",
+    "proficiency": "Advanced"
+  },
+  {
+    "name": "FastAPI",
+    "category": "Backend",
+    "proficiency": "Advanced"
+  },
+  {
+    "name": "Node.js",
+    "category": "Backend",
+    "proficiency": "Advanced"
+  },
+  {
+    "name": "Python",
+    "category": "Backend",
+    "proficiency": "Expert"
+  },
+  {
+    "name": "REST APIs",
+    "category": "Backend",
+    "proficiency": "Advanced"
+  },
+  {
+    "name": "Flutter",
+    "category": "Mobile",
+    "proficiency": "Intermediate"
+  },
+  {
+    "name": "Dart",
+    "category": "Mobile",
+    "proficiency": "Intermediate"
+  },
+  {
+    "name": "PostgreSQL",
+    "category": "Databases",
+    "proficiency": "Advanced"
+  },
+  {
+    "name": "MongoDB",
+    "category": "Databases",
+    "proficiency": "Intermediate"
+  },
+  {
+    "name": "Redis",
+    "category": "Databases",
+    "proficiency": "Intermediate"
+  },
+ 
+  {
+    "name": "Docker",
+    "category": "Tools",
+    "proficiency": "Advanced"
+  },
+  {
+    "name": "Git",
+    "category": "Tools",
+    "proficiency": "Advanced"
+  },
+  {
+    "name": "AWS",
+    "category": "Tools",
+    "proficiency": "Intermediate"
+  },
+  {
+    "name": "CI/CD",
+    "category": "Tools",
+    "proficiency": "Intermediate"
+  }
+]
+
